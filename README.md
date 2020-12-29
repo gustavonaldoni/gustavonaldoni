@@ -1,5 +1,5 @@
 <img src="images/header.png"/>
-<h1> Hi there </h1> <img src="gifs/hand.gif" width="30px"/>
+# Hi there <img src="gifs/hand.gif" width="30px"/>
 
 <!--
 **gustavonaldoni/gustavonaldoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
