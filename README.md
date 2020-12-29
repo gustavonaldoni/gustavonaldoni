@@ -10,6 +10,10 @@ I'm a high school student from <b> Brazil </b> that will start a CS degree on 20
 ## &#x1f4c8; GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavonaldoni&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## 💾 Check Out Some Of My Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavonaldoni&repo=image-to-ascii&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavonaldoni&repo=SpaceInvadersPy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📖 Currently Learning
 <b>.</b> Python <br>
 <b>.</b> MySQL <br>
