@@ -3,6 +3,8 @@
 # Hi there <img src="gifs/hand.gif" width="30px"/>
 I'm a high school student from <b> Brazil </b> that will start my CS degree on 2022. 
 
+## &#x1f4c8; GitHub Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gustavonaldoni&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gustavonaldoni/gustavonaldoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
