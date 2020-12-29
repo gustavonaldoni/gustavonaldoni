@@ -1,4 +1,4 @@
-<img src="images/header.png"/>
+[![Header](https://raw.githubusercontent.com/gustavonaldoni/gustavonaldoni/master/images/header.png "Header")](github.com/gustavonaldoni)
 # Hi there <img src="gifs/hand.gif" width="30px"/>
 
 <!--
