@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="images/header.png"/>
+<h1> Hi there 👋 </h1>
 
 <!--
 **gustavonaldoni/gustavonaldoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
