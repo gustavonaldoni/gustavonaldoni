@@ -1,5 +1,8 @@
 [![Header](https://raw.githubusercontent.com/gustavonaldoni/gustavonaldoni/master/images/header.png "Header")](github.com/gustavonaldoni)
+
 # Hi there <img src="gifs/hand.gif" width="30px"/>
+I'm a high school student from <b> Brazil </b> that will start my CS degree on 2022. 
+
 
 <!--
 **gustavonaldoni/gustavonaldoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
