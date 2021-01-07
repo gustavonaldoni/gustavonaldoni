@@ -17,7 +17,7 @@ I'm a high school student from <b> Brazil </b> that will start a CS degree on 20
 ## 📖 Currently Learning
 <b>.</b> Python <br>
 <b>.</b> MySQL <br>
-<b>.</b> Data Structures and Algorithms <br>
+<b>.</b> Precalculus Math <br>
 
 <!--
 **gustavonaldoni/gustavonaldoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
