@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/gustavonaldoni/gustavonaldoni/master/images/header.png "Header")](github.com/gustavonaldoni)
 
 # Hi there <img src="gifs/hand.gif" width="30px"/>
-I'm a high school student from <b> Brazil </b> that will start a CS degree on 2022. 
+I'm a Computer Science student from <b> Brazil </b> at PUC Minas. Enjoy!
 
 ## My Social Media
 <a href="https://www.instagram.com/gustavonaldonitfpn/"> ![](https://img.shields.io/badge/Media-Instagram-informational?style=flat-square&logo=instagram&logoColor=white&color=green) </a>
