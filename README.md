@@ -14,11 +14,6 @@ I'm a Computer Science student from <b> Brazil </b> at PUC Minas. Enjoy!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavonaldoni&repo=image-to-ascii&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavonaldoni&repo=SpaceInvadersPy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📖 Currently Learning
-<b>.</b> Python <br>
-<b>.</b> MySQL <br>
-<b>.</b> Precalculus Math <br>
-
 <!--
 **gustavonaldoni/gustavonaldoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
